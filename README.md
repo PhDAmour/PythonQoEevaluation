@@ -1,3 +1,15 @@
-La base de données fournie rentre dans le cadre du projet PoQEMoN (Platform for Quality Evaluation of Mobile Networks). Ce projet labellisé par le pôle de compétitivité System@tic, a réuni au sein du consorsium les partenaires suivants: IP Label, leader du consorsium,  Orange, ALTRAN, Data-Publica, INRIA, Genymobile, le Groupe Next Radio, HEC et notre équipe de recherche CIR (Contrôle Intelligent dans les Réseaux). 
+La base de données fournie rentre dans le cadre du projet PoQEMoN (Platform for Quality Evaluation of Mobile Networks). Ce projet a été retenur par le FUI, Fonds Unique Interministériel en charge de la politique des pôles de compétitivité, après labellisation par le pôle Systematic Paris Région. Il a réuni au sein du consorsium les partenaires suivants: IP Label, leader du consorsium,  Orange, ALTRAN, Data-Publica, INRIA, Genymobile, le Groupe Next Radio, HEC et notre équipe de recherche CIR (Contrôle Intelligent dans les Réseaux). 
 
-Ce dispositif de mesure de la qualité des réseaux est développé par ip-label das le cadre du projet Platform for Quality Evaluation of Mobile Networks, avec Altran, Data Publica, HEC et l'Université Paris Est Crétail. Il a été retenur par le FUI, Fonds Unique Interministériel en charge de la politique des pôles de compétitivité, après labellisation par le pôle Systematic Paris Région.
+
+La campagne de test se compose principalement des éléments ci-dessous:
+
+- Un outil de visionnage des flux permet de collecter les informations relatives à la qualité du réseau au niveau du terminal en utilisant Androïd.
+- Utilisation de plusieurs types de dispositifs d'affichage de type tablette ou Smartphone. Ces dispositifs sont représentatifs des terminaux utilisés par le grand public dans les réseaux cellulaires, à cause de la diversité  de leurs caractéristiques techniques telles que la mémoire, la résolution d'écran, la taille de la fenêtre d'affichage, etc.
+-  Formation des utilisateurs à la procédure de tests et à la méthodologie d'évaluation (comme  l'annexe $1$). 
+- Un questionnaire à remplir par l’utilisateur, qui permet de cerner son profil et de récolter l’évaluation de la qualité de visionnage.
+- Utilisation de plusieurs catégories de contenus vidéo (sport, film, documentaires, musique, etc.).
+
+
+
+
+Dans cette campagne d'évaluation, différents emplacements urbains et moyens de transport ont été testés pour évaluer le service de diffusion vidéo YouTube. Chacun de ces emplacements est caractérisé par différents facteurs de la QoE comme la puissance du signal de réception (\textit{Received Signal Strength (RSS)}) et le type du réseau utilisé (3G, HSPA, 4G, etc.). 
